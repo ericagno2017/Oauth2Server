@@ -18,6 +18,11 @@ import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
+
+/**
+ * This controller allow to manage Tokens, get list by user, or revoke any of them
+ * */
+
 @Controller
 public class TokenController {
 
